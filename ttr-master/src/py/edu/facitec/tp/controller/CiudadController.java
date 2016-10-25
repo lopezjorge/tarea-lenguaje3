@@ -10,7 +10,7 @@ import py.edu.facitec.tp.model.Ciudad;
 
 /**
  *
- * @author brother
+ * @author Jorgelopez
  */
 public interface CiudadController {
     void registrarCiudad(Ciudad ciudad);
