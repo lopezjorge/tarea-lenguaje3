@@ -12,7 +12,7 @@ import py.edu.facitec.tp.model.Ciudad;
 
 /**
  *
- * @author brother
+ * @author jorgelopez
  */
 public class CiudadControllerImp implements CiudadController {
 
