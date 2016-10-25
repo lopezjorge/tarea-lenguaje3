@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author brother
+ * @author jorgelopez
  */
 public class ConexionManager {
     public static final String DB = "bd_taller_mecanico";
